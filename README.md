@@ -78,10 +78,6 @@ The manual steps will explain how everything works and allow you to adjust if yo
 
 [More Screenshots](https://github.com/zipurman/oVIRT_Simple_Backup/tree/master/screenshots)
 
----
 
-#### Author
-
-Zipur
 
 
